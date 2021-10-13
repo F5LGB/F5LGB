@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @F5LGB
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---RADIO AMATEUR problem Wilhelmine droid application toi moi et on IOS APPLE 
-F5LGB/F5LGB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+- 👀 I’m interested in ...Ham Radio 
+- 🌱 I’m currently learning IOS
+- 💞️ I’m looking to collaborate on resolv problem between droid And IOS when conversion  .
+You can click the Preview link to
 --->
